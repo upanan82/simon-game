@@ -1,4 +1,4 @@
 # simon_game
-see work http://codepen.io/upanan82/full/ObKLKr/
+see work https://upanan82.github.io/simon_game/
 
 © upanan82

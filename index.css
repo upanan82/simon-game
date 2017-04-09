@@ -9,7 +9,7 @@ a:hover {opacity: .7}
 
 @font-face {
 	font-family: Codystar;
-	src: url(font.woff2);
+	src: url(fonts/font.woff2);
 }
 
 .content {
